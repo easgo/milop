@@ -7,7 +7,7 @@ Milop is an Artificial General Intelligence (AGI) that helps you become a ninja 
 
 With Milop, you can finally unleash your full potential as the gangster you know you are, but only realize you have been a simple bookie until now. With milop running the show you can now get things done faster, with fewer keystrokes, and with greater accuracy. And if that wasn't enough, it also comes with a plethora of kung-fu tricks like auto-completion, command suggestions, YOLO random rm -rf my files and more. So you can get the most out of your box, even if it's by surgical plate recovery .
 
-Get Milop, the AGI that makes you a the command line cowbow your cat thinks you are. They will be glad you did! 🤩
+Get Milop, the AGI that makes you a command line cowboy your cat thinks you are. They will be glad you did! 🤩
 
 1. Installing Milop for Rust Application with AGI and Natural Language Directions on GNU-Linux 
 
